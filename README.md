@@ -1,3 +1,7 @@
+前端html模板工具
+快速的根据数据生成html内容
+
+
 # jQuery Templates plugin vBeta1.0.0
 
 _jQuery Templates is no longer in active development, and will be superseded by <a href="http://github.com/borismoore/jsrender">JsRender</a>. See vBeta1.0.0 tag for released beta version. Requires jQuery version 1.4.2._
